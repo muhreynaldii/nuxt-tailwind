@@ -1,6 +1,7 @@
 <template>
   <fragment>
     <h2>ini home</h2>
+    <p>{{ post.title }}</p>
   </fragment>
 </template>
 
