@@ -1,6 +1,6 @@
 <template>
   <fragment>
-    <Tutorial />
+    <p>Ini page Index</p>
     <NuxtLink to="/home">Home page</NuxtLink>
   </fragment>
 </template>

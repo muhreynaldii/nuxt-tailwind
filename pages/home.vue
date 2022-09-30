@@ -1,9 +1,14 @@
 <template>
-  <h2>ini home</h2>
+  <fragment>
+    <h2>ini home</h2>
+  </fragment>
 </template>
 
 <script>
 export default {
-  name: "Home",
+  layout: "sidebar",
+  // layout() {
+  //   return "sidebar";
+  // },
 };
 </script>

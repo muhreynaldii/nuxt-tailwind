@@ -42,7 +42,3 @@ export default {
     },
   },
 };
-
-module.exports = {
-  modules: ["@layer0/nuxt/module"],
-};
