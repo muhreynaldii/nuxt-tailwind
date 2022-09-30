@@ -1,3 +1,3 @@
 <template>
-  <h1>Funny</h1>
+  <h1>Funny Pages</h1>
 </template>
