@@ -1,6 +1,5 @@
 <template>
   <div>
-    <p>ini template euy</p>
-    <Nuxt />
+    <Nuxt class="text-purple-400" />
   </div>
 </template>

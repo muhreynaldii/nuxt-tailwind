@@ -1,12 +1,16 @@
 <template>
   <div>
     <h1>Funny Pages for laugh</h1>
-    <p v-for="(data, index) in posts" :key="data.id">{{ data.description }}</p>
+    <p v-for="(data, index) in posts" :key="data.id">
+      {{ data.description }}
+    </p>
+    <NuxtLink to="/posts" class="underline"> Halaman post</NuxtLink>
   </div>
 </template>
 
 <script>
 export default {
+  layout: "article",
   data: () => ({
     posts: [],
   }),

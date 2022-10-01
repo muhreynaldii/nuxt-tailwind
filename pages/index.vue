@@ -2,6 +2,7 @@
   <fragment>
     <p>Ini page Index</p>
     <NuxtLink to="/home">Home page</NuxtLink>
+    <p>damwdmaw</p>
   </fragment>
 </template>
 
