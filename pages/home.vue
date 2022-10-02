@@ -1,8 +1,7 @@
 <template>
-  <fragment>
+  <div>
     <h2>ini home</h2>
-    <p>{{ post.title }}</p>
-  </fragment>
+  </div>
 </template>
 
 <script>

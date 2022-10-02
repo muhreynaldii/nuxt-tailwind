@@ -1,5 +1,6 @@
 <template>
-  <fragment>
+  <div>
     <p>Ini Article Layout</p>
-  </fragment>
+    <Nuxt />
+  </div>
 </template>
