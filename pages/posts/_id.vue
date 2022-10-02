@@ -12,5 +12,9 @@ export default {
     const posts = await $http.$get(`https://api.nuxtjs.dev/posts/${params.id}`);
     return { posts };
   },
+  validate({ params }) {
+    // Must be a number
+    return /^\d+$/.test(params.id);
+  },
 };
 </script>
