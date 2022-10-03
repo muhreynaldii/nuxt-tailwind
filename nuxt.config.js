@@ -1,5 +1,16 @@
+import { resolve } from "path";
+
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
+  cli: {
+    badgeMessages: ["Hello World!"],
+  },
+  buildDir: "nuxt-dist",
+  alias: {
+    images: resolve(__dirname, "./assets/images"),
+    style: resolve(__dirname, "./assets/style"),
+    data: resolve(__dirname, "./assets/other/data"),
+  },
   ssr: false,
   head: {
     title: "nuxt-tailwind",

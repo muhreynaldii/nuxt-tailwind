@@ -1,0 +1,80 @@
+[
+  {
+    "name": "fun",
+    "path": "/fun",
+    "component": "D:\\\\Magang\\\\Qatros\\\\nuxt-tailwind\\\\pages\\\\fun.vue",
+    "chunkName": "pages/fun"
+  },
+  {
+    "name": "home",
+    "path": "/home",
+    "component": "D:\\\\Magang\\\\Qatros\\\\nuxt-tailwind\\\\pages\\\\home.vue",
+    "chunkName": "pages/home"
+  },
+  {
+    "name": "parent",
+    "path": "/parent",
+    "component": "D:\\\\Magang\\\\Qatros\\\\nuxt-tailwind\\\\pages\\\\parent\\\\index.vue",
+    "chunkName": "pages/parent/index"
+  },
+  {
+    "name": "posts",
+    "path": "/posts",
+    "component": "D:\\\\Magang\\\\Qatros\\\\nuxt-tailwind\\\\pages\\\\posts\\\\index.vue",
+    "chunkName": "pages/posts/index"
+  },
+  {
+    "name": "slug",
+    "path": "/slug",
+    "component": "D:\\\\Magang\\\\Qatros\\\\nuxt-tailwind\\\\pages\\\\slug\\\\index.vue",
+    "chunkName": "pages/slug/index"
+  },
+  {
+    "name": "user",
+    "path": "/user",
+    "component": "D:\\\\Magang\\\\Qatros\\\\nuxt-tailwind\\\\pages\\\\user\\\\index.vue",
+    "chunkName": "pages/user/index"
+  },
+  {
+    "name": "parent-child",
+    "path": "/parent/child",
+    "component": "D:\\\\Magang\\\\Qatros\\\\nuxt-tailwind\\\\pages\\\\parent\\\\child.vue",
+    "chunkName": "pages/parent/child"
+  },
+  {
+    "name": "slug-comment",
+    "path": "/slug/comment",
+    "component": "D:\\\\Magang\\\\Qatros\\\\nuxt-tailwind\\\\pages\\\\slug\\\\comment.vue",
+    "chunkName": "pages/slug/comment"
+  },
+  {
+    "name": "user-one",
+    "path": "/user/one",
+    "component": "D:\\\\Magang\\\\Qatros\\\\nuxt-tailwind\\\\pages\\\\user\\\\one.vue",
+    "chunkName": "pages/user/one"
+  },
+  {
+    "name": "blog-slug",
+    "path": "/blog/:slug?",
+    "component": "D:\\\\Magang\\\\Qatros\\\\nuxt-tailwind\\\\pages\\\\blog\\\\_slug.vue",
+    "chunkName": "pages/blog/_slug"
+  },
+  {
+    "name": "posts-id",
+    "path": "/posts/:id",
+    "component": "D:\\\\Magang\\\\Qatros\\\\nuxt-tailwind\\\\pages\\\\posts\\\\_id.vue",
+    "chunkName": "pages/posts/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Magang\\\\Qatros\\\\nuxt-tailwind\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  },
+  {
+    "name": "all",
+    "path": "/*",
+    "component": "D:\\\\Magang\\\\Qatros\\\\nuxt-tailwind\\\\pages\\\\_.vue",
+    "chunkName": "pages/_"
+  }
+]
